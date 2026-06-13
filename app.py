@@ -67,6 +67,9 @@ class PDFProcessor:
         for c in range(chunks):
             chunk = new_pages[c*P : (c+1)*P]
             for k in range(1, self.parcel_sheets + 1):
+                if k in self.blackout_sheets:
+                    continue  # Skip rendering this physical sheet entirely
+
                 # Front side
                 front_left = chunk[P - 2*k + 1]
                 front_right = chunk[2*k - 2]
