@@ -1,6 +1,6 @@
 # Coptic Print PDF Formatter
 
-A desktop application designed to reformat standard PDF documents into ready-to-print **Coptic bookbinding** signatures (parcels). 
+A desktop application designed to reformat standard PDF documents into ready-to-print **Coptic bookbinding** signatures. 
 
 Instead of printing pages linearly (1, 2, 3...), this tool reorders them into nested sheets that can be folded in half and bound into booklets. 
 
