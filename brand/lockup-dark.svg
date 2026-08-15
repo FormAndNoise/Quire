@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 120" width="880" height="120">
+  <rect width="880" height="120" fill="#0B0B0B" />
+  <!-- Symbol Left -->
+  <g transform="translate(36, 28) scale(2.666)" fill="none" stroke="#BC5570" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="5.5" y="4" width="12.5" height="16" rx="1.5" />
+    <path d="M 8.5 4 L 20 4 C 20.8 4 21.5 4.7 21.5 5.5 L 21.5 18.5 C 21.5 19.3 20.8 20 20 20 L 18 20" />
+    <path d="M 5.5 7.5 C 3.2 8.7 3.2 10.3 5.5 11.5" />
+    <path d="M 5.5 12.5 C 3.2 13.7 3.2 15.3 5.5 16.5" />
+    <circle cx="5.5" cy="12" r="1.3" fill="#BC5570" stroke="none" />
+  </g>
+  <!-- Wordmark + Job Line -->
+  <text x="120" y="56" font-family="'Space Grotesk', -apple-system, BlinkMacSystemFont, sans-serif" font-size="28" font-weight="600" fill="#F2EEE8" letter-spacing="-0.5px">Quire</text>
+  <text x="120" y="84" font-family="'Inter', -apple-system, BlinkMacSystemFont, sans-serif" font-size="14" font-weight="400" fill="#A8A49E" letter-spacing="0">Imposes multi-page PDFs into duplexed, sequence-ordered signatures for physical bookbinding.</text>
+</svg>
