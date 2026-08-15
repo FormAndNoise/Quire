@@ -174,7 +174,7 @@ class PDFHandler(FileSystemEventHandler):
 class App(tk.Tk):
     def __init__(self):
         super().__init__()
-        self.title("Coptic Print - Bookbinding PDF Formatter")
+        self.title("Quire — Bookbinding PDF Formatter & Imposition Studio")
         self.geometry("600x500")
         
         self.base_dir = os.path.dirname(os.path.abspath(__file__))
